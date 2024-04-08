@@ -30,3 +30,9 @@
 
 - **Фронтенд**: JS, TypeScript, React, Redux (Saga, Thunk, Toolkit), HTML5, CSS3
 - **Бекенд**: Node.js, Express, Nest.js, PostgreSQL, Sequelize ORM, TypeORM
+
+[linkedin]: https://www.linkedin.com/in/mchepalov
+[whatsapp]: https://wa.me/79134848594
+[telegram]: https://t.me/mchepalov
+[instagram]: https://www.instagram.com/markchepalov
+[git]: https://github.com/IsoBill
